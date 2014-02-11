@@ -7,3 +7,7 @@ Use capybara and rspec to help scrape United's milageplus members flight search 
 
 This code was quickly created to solve a specific problem. It is not intended as a generalized scrape tool.
 
+Copyright 2014 Mike Park
+License: MIT
+
+
